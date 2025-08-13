@@ -30,9 +30,9 @@ A powerful Model Context Protocol (MCP) server that provides lightning fast imag
 
 Watch the demo video to see the Runware MCP server in action:
 
-https://github.com/Runware/MCP-Runware/assets/150670060/Demo/Claude-Runware.mp4
 
-*This demo showcases the seamless integration between Claude and the Runware MCP server, demonstrating image generation, video creation, and other AI-powered tools.*
+https://github.com/user-attachments/assets/9732096b-8513-455c-9759-cc88363c42f9
+
 
 ## Architecture
 
